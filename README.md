@@ -1,10 +1,4 @@
 # Portfolio
-#### Technical Skills: Python, SQL, R, MATLAB
 
-## Education
-B.S., Mathematics | The University of Tennessee at Knoxville (_May 2024_)
+Welcome to my data portfolio! I have displayed here a summary of my projects using Python and SQL!
 
-## Work Experience
-Undergraduate Research Assistant @ University of Tennessee, Knoxville
-
-### Projects
